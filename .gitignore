@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+results_nb/
+artifacts/
+*.xlsx
+*.csv
